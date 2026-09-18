@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector store
+vector_store/saved_index/
+
+# Streamlit
+.streamlit/
